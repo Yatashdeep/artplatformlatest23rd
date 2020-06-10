@@ -1,0 +1,25 @@
+page-followedartist {
+  .container {
+    padding: 20px;
+  }
+  .pop-up {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .pop-style {
+    background-color: #fff;
+    width: 77%;
+    border-radius: 6px;
+    height: 19%;
+  }
+  .close-style {
+    font-size: 1.9em;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 11px;
+    /* width: 100%; */
+    margin-top: 11px;
+  }
+}
